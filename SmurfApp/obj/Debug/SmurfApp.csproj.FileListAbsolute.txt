@@ -1,0 +1,14 @@
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\Pictures\smurfs01.jpg
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\Pictures\smurfs02.jpg
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\Pictures\smurfs03.jpg
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\Pictures\smurfs04.jpg
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\Pictures\smurfs05.jpg
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\Pictures\smurfs06.jpg
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\Pictures\smurfs07.jpg
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\Pictures\smurfs08.jpg
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\SmurfApp.exe.config
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\SmurfApp.exe
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\bin\Debug\SmurfApp.pdb
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\obj\Debug\SmurfApp.csprojResolveAssemblyReference.cache
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\obj\Debug\SmurfApp.exe
+c:\users\sigfr\documents\visual studio 2017\Projects\SmurfApp\SmurfApp\obj\Debug\SmurfApp.pdb
